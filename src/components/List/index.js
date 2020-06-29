@@ -1,5 +1,5 @@
 import React from 'react';
-import { mdAdd } from 'react-icons/md'; // material design //md - padrão para importação md // mdAdd - importar icone +
+import { MdAdd } from 'react-icons/md'; // material design //md - padrão para importação md // mdAdd - importar icone +
 import { Container } from './styles';
 import Card from '../Card';
 
@@ -10,7 +10,7 @@ export default function List( { data } ) {
                 <h2>{data.title}</h2>
                 {data.creatable && (
                     <button type="button">
-                        <mdAdd size={24} color="#FFF" /> 
+                        <MdAdd size={24} color="#FFF" /> 
                     </button>
                 )}
 
