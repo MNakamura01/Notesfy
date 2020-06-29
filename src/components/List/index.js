@@ -2,11 +2,10 @@ import React from 'react';
 
 import { Container } from './styles';
 
-export default function Header() {
+export default function List() {
     return(
         <Container>
-            <h1>Notesfy</h1>
-
-        </Container> 
+            
+        </Container>
     );
 }
