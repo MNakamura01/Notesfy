@@ -42,7 +42,7 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
+            content: 'Estudando React',
             labels: [],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           }
@@ -80,6 +80,12 @@ export function loadLists() {
             id: 10,
             content: 'Gravar aula sobre deploy e CI com React Native',
             labels: [],
+          },
+          {
+            id: 6,
+            content: 'Recriando clone do Pipefy',
+            labels: [],
+            user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 12,
