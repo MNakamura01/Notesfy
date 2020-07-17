@@ -6,31 +6,31 @@ export function loadLists() {
         cards: [
           {
             id: 1,
-            content: 'Estudar módulo 01 de NodeJS',
+            content: 'Criar portifólio em inglês',
             labels: ['#7159c1'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 2,
-            content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+            content: 'Disponibilizar todos os meus certificados no Drive',
             labels: ['#7159c1'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 3,
-            content: 'Estudar módulo 03 de React Native',
+            content: 'Assistir How I Met Your Mother',
             labels: ['#7159c1'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 4,
-            content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+            content: 'Assistir aula 12 de inglês',
             labels: ['#54e1f7'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 5,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Terminar planejamento financeiro',
             labels: ['#54e1f7'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
@@ -42,7 +42,7 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Estudando React',
+            content: 'Criando portifólio',
             labels: [],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           }
@@ -54,19 +54,19 @@ export function loadLists() {
         cards: [
           {
             id: 7,
-            content: 'Gravar sobre Geolocalização e mapas com React Native',
+            content: "Descobrindo novas api's para consumo",
             labels: ['#7159c1'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 8,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Descobrindo MongoDB com NodeJS',
             labels: ['#54e1f7'],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 9,
-            content: 'Ajustes na biblioteca unform',
+            content: 'Melhorar visual do portifólio',
             labels: [],
           }
         ]
@@ -78,23 +78,23 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
+            content: 'Criação base do portifólio',
             labels: [],
           },
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
+            content: 'Recriar clone do Pipefy',
             labels: [],
             user: 'https://api.adorable.io/avatars/285/testando123teste.png'
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Descobrir e estudar ReactJS',
             labels: ['#54e1f7'],
           },
           {
             id: 13,
-            content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+            content: 'Aprender cada dia uma coisa nova',
             labels: ['#7159c1'],
           }
         ]
